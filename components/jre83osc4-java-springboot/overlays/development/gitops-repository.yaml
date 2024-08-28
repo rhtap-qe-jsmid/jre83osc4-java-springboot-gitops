@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jre83osc4-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/jre83osc4-java-springboot-gitops
